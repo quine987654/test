@@ -1,0 +1,36 @@
+{
+    "bridge":{
+        "menuL1":"交易所",
+        "menuL2":"钱包",
+        "menuL3":"浏览器",
+        "menuL4":"语言",
+        "menuR1":"链接钱包",
+        "lBoxH":"资产桥",
+        "lBoxIns":"將跨鏈資產帶到幣安鏈的安全、快速且最有保障的方法。",
+        "lBoxBue":"介绍影片",
+        "lBoxA1":"查看资产证明",
+        "lBoxA2":"用户指南",
+        "rBoxT1":"每個地址的每日額度 ",
+        "rBoxLb1":"资产",
+        "rBoxForm":"从",
+        "rBoxTo":"到",
+        "rBoxAdd":"如果您尚未在您的 MetaMask 新增幣安智能鏈網路，請點擊 新增網路 並繼續",
+        "rBoxErr":"您無法將 {0} 代幣從 {1} 交換到 {2}。您必須更改錢包的網路或選擇不同的網路",
+        "rBoxLb2":"数量",
+        "rBoxTips":"您将收到",
+        "rBoxBut1":"链接钱包",
+        "rBoxBut2":"下一步",
+        "rBoxTipst":"提示",
+        "rBoxTips1":"1.最小金额为",
+        "rBoxTips2":"2.最大金额为",
+        "wallet":"链接钱包",
+        "BoxA2":"用户指南",
+        "BoxA2":"用户指南",
+        "BoxA2":"用户指南",
+        "BoxA2":"用户指南"
+    },
+    "footer":{
+        "terms":"使用条款",
+        "copyright":"© 2021 - 2100.保留所有权利。"
+    }
+}

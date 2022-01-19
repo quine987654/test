@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+    <!-- <link
+      rel="stylesheet"
+      href="https://unpkg.com/element-ui/lib/theme-chalk/index.css"
+    /> -->
+    <!-- 引入样式 -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/element-ui/lib/theme-chalk/index.css"
+    />
+    <title>
+      Asset Bridge
+    </title>
+    <!-- 引入vue -->
+    <!-- <script src="https://cdn.bootcdn.net/ajax/libs/vue/2.6.11/vue.min.js"></script> -->
+    <!-- vue-i18n -->
+    <!-- <script src="https://cdn.bootcdn.net/ajax/libs/vue-i18n/8.24.3/vue-i18n.min.js"></script> -->
+    <!-- router -->
+    <!-- <script src="https://unpkg.com/vue-router@3.2.0/dist/vue-router.js"></script> -->
+    <!-- <script src="https://cdn.bootcdn.net/ajax/libs/axios/0.21.1/axios.min.js"></script> -->
+    <!-- <script src="https://cdn.bootcdn.net/ajax/libs/core-js/3.6.5/minified.min.js"></script> -->
+    <!-- import JavaScript -->
+    <!-- <script src="https://unpkg.com/element-ui/lib/index.js"></script> -->
+    <script src="./js/iconfont.js"></script>
+
+    <style>
+      * {
+        margin: 0px;
+        padding: 0px;
+      }
+
+      .fl {
+        float: left;
+      }
+
+      .fr {
+        float: right;
+      }
+
+      .hui {
+        color: #555;
+      }
+
+      li {
+        list-style: none;
+      }
+
+      body {
+        font-size: 14px;
+      }
+
+      input {
+        outline: none;
+      }
+
+      a {
+        text-decoration: none;
+        color: #333;
+      }
+
+      .icon {
+        width: 1em;
+        height: 1em;
+        vertical-align: -0.15em;
+        fill: currentColor;
+        overflow: hidden;
+      }
+      :root {
+        --theme_bg_color: red;
+      }
+    </style>
+  </head>
+
+  <body>
+    <noscript>
+      <strong
+        >We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work
+        properly without JavaScript enabled. Please enable it to
+        continue.</strong
+      >
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

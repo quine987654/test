@@ -1,0 +1,117 @@
+{
+    "tips": {
+        "wdcAddErr": "WDC 地址有誤",
+        "addErr": "地址有誤",
+        "inpSmall": "輸入數量過低",
+        "pleIns": "請安裝MetaMask",
+        "balIns": "餘額不足",
+        "close": "關閉訂單成功"
+    },
+    "airdrop": {
+        "title": "領取 GAS",
+        "subTtitle": "用戶從其他區塊鏈將資產轉移至PSC跨鏈成功，空投 1 psc未到賬時可領取1 PSC。",
+        "p": "用戶從其他區塊鏈將資產轉移至PSC跨鏈成功，空投 1 psc未到賬時，可領取1 PSC作為polysmartchain燃料費。",
+        "but": "申請"
+    },
+    "bridge": {
+        "assets": "資產",
+        "from": "從",
+        "to": "到",
+        "number": "數量",
+        "input": "請輸入接收地址",
+        "estimate": "預計收到",
+        "tips": "您的交易地址將會成為收款地址,請切換網路以在完成後檢查您的餘額。",
+        "fromAddress": "發起地址",
+        "toAddress": "接收地址",
+        "link": "鏈接錢包",
+        "next": "下一步"
+    },
+    "assetsPop": {
+        "search": "搜索"
+    },
+    "orderPop": {
+        "one": "發起交易",
+        "two": "鑄造",
+        "three": "交易",
+        "four": "完成",
+        "state": "訂單狀態",
+        "assets": "轉換資產",
+        "amount": "金額",
+        "dao": "到账金额",
+        "address": "地址",
+        "fromNetwork": "轉換起始方的網絡名稱",
+        "toNetwork": "轉換目標方的網絡名稱",
+        "tips0": "發起交易,待轉幣",
+        "tips1": "轉幣超時",
+        "tips2": "轉幣成功,等待鑄造",
+        "tips3": "鑄造失敗,等待重試",
+        "tips3time": "時間",
+        "tips3state": "重試狀態",
+        "tips3error": "失敗",
+        "tips3success": "成功",
+        "tips6reason": "失敗原因",
+        "tips4": "鑄造失敗,等待退回資金",
+        "tips5": "退還資金成功",
+        "tips6": "退還資金失敗,等待重試",
+        "tips7": "退還資金失敗,等待手動結束",
+        "tips8": "已手動結束",
+        "tips200": "鑄造成功,已放幣",
+        "down": "關閉訂單",
+        "downOK": "確認關閉當前訂單？",
+        "err": "失敗原因",
+        "wxTips": "溫馨提示：如果轉賬事務已發出後再點擊關閉訂單按鈕，跨鏈任務仍將正常運行!"
+    },
+    "qrCode": {
+        "ply": "支付",
+        "upApp": "請打開WDC APP掃碼支付",
+        "no": "請不要隨意掃碼！",
+        "close": "關閉"
+    },
+    "transContinue": {
+        "title": "確認",
+        "accets": "資產",
+        "address": "地址",
+        "fee": "網絡手續費",
+        "collect": "您將收到",
+        "tip1": "只有第一筆轉帳會受到監控,請開始單筆轉帳。",
+        "tip2": "網路費用和最終費用取决於市場條件。交易完成時的最終費率可能會不同。",
+        "confirm": "確認"
+    },
+    "orderList": {
+        "title": "訂單記錄",
+        "from": "從",
+        "to": "到",
+        "address": "地址",
+        "network": "網絡",
+        "token": "Token",
+        "symbol": "標識",
+        "name": "名稱",
+        "amount": "金額",
+        "arrival": "到賬",
+        "status": "狀態",
+        "status0": "發起交易，待轉幣",
+        "status1": "轉幣超時",
+        "status2": "轉幣成功，等待鑄造",
+        "status3": "鑄造失敗，等待重試",
+        "status4": "交易失敗，等待退回資金",
+        "status5": "退還資金成功",
+        "status6": "退還資金失敗，等待重試",
+        "status7": "退還資金失敗，等待手動結束",
+        "status8": "已手動結束",
+        "status200": "鑄造成功，已放幣",
+        "limit": "共 {total} 條"
+    },
+    "header": {
+        "bridge": "橋",
+        "airdrop": "加油站",
+        "orderList": "訂單歷史",
+        "lang": "English",
+        "link": "鏈接錢包"
+    },
+    "footer": {},
+    "wlAlert": {
+        "title": "提示",
+        "ok": "确认",
+        "close": "取消"
+    }
+}

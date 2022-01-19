@@ -1,0 +1,116 @@
+{
+    "tips": {
+        "wdcAddErr": "WDC address is wrong",
+        "addErr": "Wrong address",
+        "inpSmall": "The input quantity is too small",
+        "pleIns": "Please install MetaMask",
+        "balIns": "Insufficient balance",
+        "close": "Close order successfully"
+    },
+    "airdrop": {
+        "title": "Gas station",
+        "p": "If the user successfully transfers assets from other blockchains to PSC, but the 1 psc airdrop has not arrived, the user can manually collect 1 PSC as the polysmartchain fuel fee.",
+        "but": "Application"
+    },
+    "bridge": {
+        "assets": "Assets",
+        "from": "From",
+        "to": "To",
+        "number": "Quantity",
+        "input": "Please enter the address",
+        "estimate": "Estimated receipt",
+        "tips": "Your transaction address will become the collection address. Please switch the network to check your balance after completion.",
+        "fromAddress": "Originating address",
+        "toAddress": "Receiving address",
+        "link": "Connecting wallets",
+        "next": "Next"
+    },
+    "assetsPop": {
+        "search": "Search"
+    },
+    "orderPop": {
+        "one": "initiating a transaction",
+        "two": "casting",
+        "three": "transaction",
+        "four": "done",
+        "state": "order status",
+        "assets": "converting assets",
+        "amount": "amount",
+        "dao": "amount received",
+        "address": "address",
+        "fromNetwork": "network name of the conversion initiator",
+        "toNetwork": "converting the network name of the target",
+        "tips0": "initiating a transaction and waiting for currency transfer",
+        "tips1": "currency transfer timeout",
+        "tips2": "currency transfer succeeded, waiting for casting",
+        "tips3": "casting failed, waiting for retry",
+        "tips3time": "time",
+        "tips3state": "retry status",
+        "tips3error": "failed",
+        "tips3success": "success",
+        "tips6reason": "failure reason",
+        "tips4": "casting failed, waiting for capital return",
+        "tips5": "funds returned successfully",
+        "tips6": "fund return failed, waiting for retry",
+        "tips7": "fund return failed, waiting for manual completion",
+        "tips8": "manually ended",
+        "tips200": "successfully minted, coin released",
+        "down": "Close order",
+        "downOK": "Confirm to close the current order?",
+        "err": "Reason for failure",
+        "wxTips": "Reminder: If you click the close order button after the transfer transaction has been sent, the cross-chain task will still run normally!"
+    },
+    "qrCode": {
+        "ply": "Payment",
+        "upApp": "Please open WDC app for code scanning payment",
+        "no": "Please don't scan the code randomly!",
+        "close": "Close"
+    },
+    "transContinue": {
+        "title": "Confirmation",
+        "accets": "Assets",
+        "address": "Address",
+        "fee": "Network service charge",
+        "collect": "You will receive",
+        "tip1": "Only the first transfer will be monitored. Please start a single transfer.",
+        "tip2": "The network fee and final fee depend on market conditions. The final rate at the completion of the transaction may be different.",
+        "confirm": "Confirm"
+    },
+    "orderList": {
+        "title": "Order list",
+        "from": "From",
+        "to": "To",
+        "address": "Address",
+        "network": "Network",
+        "token": "Token",
+        "symbol": "Symbol",
+        "name": "Name",
+        "amount": "Amount",
+        "arrival": "Arrival",
+        "status": "Status",
+        "status0": "Initiate transaction, to be transferred",
+        "status1": "Currency transfer timeout",
+        "status2": "Successful currency conversion, waiting for casting",
+        "status3": "Casting failed, wait for retry",
+        "status4": "Transaction failed, waiting for fund return",
+        "status5": "Funds returned successfully",
+        "status6": "Failed to return funds, wait for retry",
+        "status7": "Failed to return funds, waiting for manual completion",
+        "status8": "Manually ended",
+        "status200": "Successfully minted, coins have been put",
+        "limit": "{total} articles in total"
+    },
+    "header": {
+        "bridge": "Bridge",
+        "airdrop": "Gas station",
+        "orderList": "Order list",
+        "lang": "繁体中文",
+        "link": "Connecting wallets"
+    },
+    "footer": {},
+    "wlAlert": {
+        "title": "Tips",
+        "ok": "OK",
+        "close": "Cancel"
+    }
+}
